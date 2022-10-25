@@ -1,0 +1,1 @@
+[{"stmt":"SELECT * FROM sqlite_master;","header":["type","name","tbl_name","rootpage","sql"],"rows":[["table","student","student","2","CREATE TABLE student (\n\tid INTEGER NOT NULL, \n\tname VARCHAR(50), \n\tage INTEGER, \n\tgrade VARCHAR(50), \n\tPRIMARY KEY (id)\n)"]]}]

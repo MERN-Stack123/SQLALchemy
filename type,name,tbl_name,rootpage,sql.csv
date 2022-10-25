@@ -1,0 +1,8 @@
+type,name,tbl_name,rootpage,sql
+table,student,student,2,"CREATE TABLE student (
+	id INTEGER NOT NULL, 
+	name VARCHAR(50), 
+	age INTEGER, 
+	grade VARCHAR(50), 
+	PRIMARY KEY (id)
+)"
